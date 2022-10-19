@@ -14,6 +14,6 @@ I was able to train a CNN network from scratch (no pre-trained network used) tha
 - **Limphocyte:** looks like well rounded purple colored potato. These are the easiest to identify.
 - **Monocyte:** The cell shape lookes roundish with skin-red color with some purple stuff inside. However the purple color is never fully covering the cell surface. Also, the purple colored portion of the cell is always in one continuous piece.
 - **Neutrophil:** The cell shape lookes roundish with skin-red color with some purple stuff inside. However the cell contains purple colored multiple whole-groundnuts inside it. The groundnuts could be disjointed within the cell.
-- **Eosinophil:** They look like Neutrophils. Alas! See the confusion matrix published by paultimothymooney. In his kernel, most of the failures happen when predictor falsly thinks that Eosinophils are Neutrophils.
+- **Eosinophil:** They look like Neutrophils. Alas! after experimenting with a few models, I observed that most of the failures happen when predictor falsly thinks that Eosinophils are Neutrophils.
 
 Data Used for the study, training model was take from, [Data Source](https://github.com/Shenggan/BCCD_Dataset)
