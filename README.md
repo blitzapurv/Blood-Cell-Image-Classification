@@ -8,7 +8,7 @@ Identifying Blood Cell Subtypes From Images
 - Goal: Identify the cell-type of cell-of-interest
 
 ## Quick Results Summary
-I was able to train a CNN network from scratch (no pre-trained network used) that has ~97% accuracy on the validation set. Overall, the trained network file storage size is ~8 MB and can be found here. Further also made use of MobilenetV2 model due to it's lightweight architecture and high speed performance as compared to other heavy-duty models like VGG16, Alexnet, InceptionV3 etc.
+I was able to train a CNN network from scratch (no pre-trained network used) that has ~97% accuracy on the validation set. Overall, the trained network file storage size is ~9 MB and can be found in this repository. Further also made use of MobilenetV2 model due to it's lightweight architecture and high speed performance as compared to other heavy-duty models like VGG16, Alexnet, InceptionV3 etc.
 
 ## Manual Identification
 - **Limphocyte:** looks like well rounded purple colored potato. These are the easiest to identify.
